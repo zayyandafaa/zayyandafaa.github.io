@@ -92,6 +92,7 @@ h6 {
 #header .profile h1 {
   font-size: 24px;
   margin: 0;
+  color: black;
   padding: 0;
   font-weight: 600;
   -moz-text-align-last: center;
@@ -101,7 +102,7 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #fff;
+  color: white;
   text-decoration: none;
 }
 
@@ -254,7 +255,7 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black;
 }
 
 #hero p {
